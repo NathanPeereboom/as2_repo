@@ -1,3 +1,4 @@
+//Author: Nathan Peereboom
 #include <stdio.h>
 #include <stdlib.h>
 
